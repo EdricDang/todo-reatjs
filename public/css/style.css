@@ -1,0 +1,14 @@
+.div-note {
+  padding: 5px;
+  margin: 5px;
+  border: solid 2px green;
+  border-radius: 5px;
+  width: 150px;
+}
+
+.div-list {
+  padding: 5px;
+  border: solid 2px green;
+  border-radius: 5px;
+  width: 170px;
+}
